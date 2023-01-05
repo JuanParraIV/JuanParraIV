@@ -1,14 +1,15 @@
 ![portada](https://miro.medium.com/max/1100/1*DluPjzT_eTUFdzHCI7JBZA.gif)
 # **Hi there, I'm [Juan Mario Parra D'Errico](https://www.linkedin.com/in/juanparraiv/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
-Highly enthusiastic Computer engineer with 6 month of experience in web development. He always learning the best practices to improve solutions as a professional, He really enjoy explorer new technologies, standards and methods that allow him to develop modern and powerful applications. He really like being able to understand the problems to provide an optimal solution, He always willing to learn more, since curiosity is a quality that characterizes him because he always want to know in an integral, specific and general way about some software that wants to be developed.
+Highly enthusiastic Computer engineer with 8 month of experience in web development. He always learning the best practices to improve solutions as a professional, He really enjoy explorer new technologies, standards and methods that allow him to develop modern and powerful applications. He really like being able to understand the problems to provide an optimal solution, He always willing to learn more, since curiosity is a quality that characterizes him because he always want to know in an integral, specific and general way about some software that wants to be developed.
 <br>
 <div align="center" >
       <img align="center" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="330" height="225"  />
-</div>
+
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayrarepositor&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=5">
 </p>
+</div>
 
 ## Featured Skills
 
@@ -16,11 +17,13 @@ Highly enthusiastic Computer engineer with 6 month of experience in web developm
 [![UBUNTU](https://img.shields.io/badge/UBUNTU-EB6F1F?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![CENT OS](https://img.shields.io/badge/CENTOS-1F4F8C?style=for-the-badge&logo=centOs&logoColor=white)](https://www.centos.org/) [![DEBIAN](https://img.shields.io/badge/DEBIAN-A3002E?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/index.es.html) [![MICROSOFT_WINDOW SERVER](https://img.shields.io/badge/MICROSOFT_WINDOW_SERVER-0067B8?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/es-es/windows-server)
 
 ### Virtualization:
-[![VIRTUAL BOX](https://img.shields.io/badge/VIRTUAL BOX-173761?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/) [![KVM](https://img.shields.io/badge/KVM-CC0000?style=for-the-badge&logo=kvm&logoColor=white)](https://www.linux-kvm.org/page/Main_Page) 
+[![VIRTUAL BOX](https://img.shields.io/badge/VIRTUAL_BOX-173761?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/) [![KVM](https://img.shields.io/badge/KVM-CC0000?style=for-the-badge&logo=kvm&logoColor=white)](https://www.linux-kvm.org/page/Main_Page) 
 
-### Network Services: [![APACHE](https://img.shields.io/badge/APACHE-D22129?style=for-the-badge&logo=apache&logoColor=white)](https://www.apache.org/) [![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/) [![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=ssh&logoColor=white)](https://www.ssh.com/academy/ssh) [![DHCP](https://img.shields.io/badge/DHCP-000000?style=for-the-badge&logo=ssh&logoColor=white)](https://www.isc.org/dhcp/) [![DNS](https://img.shields.io/badge/DNS-000000?style=for-the-badge&logo=dns&logoColor=white)](https://developers.google.com/speed/public-dns) [![FTP](https://img.shields.io/badge/FTP-000000?style=for-the-badge&logo=ftp&logoColor=white)](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
+### Network Services:
+[![APACHE](https://img.shields.io/badge/APACHE-D22129?style=for-the-badge&logo=apache&logoColor=white)](https://www.apache.org/) [![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/) [![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=ssh&logoColor=white)](https://www.ssh.com/academy/ssh) [![DHCP](https://img.shields.io/badge/DHCP-000000?style=for-the-badge&logo=ssh&logoColor=white)](https://www.isc.org/dhcp/) [![DNS](https://img.shields.io/badge/DNS-000000?style=for-the-badge&logo=dns&logoColor=white)](https://developers.google.com/speed/public-dns) [![FTP](https://img.shields.io/badge/FTP-000000?style=for-the-badge&logo=ftp&logoColor=white)](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 
-### Databases: [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![PostgreSQL (https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+### Databases:
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ### Versioning Control: [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 ### Scripting: [![Bash](https://img.shields.io/badge/Bash-00000F?style=for-the-badge&logo=bash&logoColor=white)](https://www.mysql.com/) [![Python (https://img.shields.io/badge/Python-366C9C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
