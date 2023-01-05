@@ -3,11 +3,11 @@
 
 Highly enthusiastic Computer engineer with 8 month of experience in web development. He always learning the best practices to improve solutions as a professional, He really enjoy explorer new technologies, standards and methods that allow him to develop modern and powerful applications. He really like being able to understand the problems to provide an optimal solution, He always willing to learn more, since curiosity is a quality that characterizes him because he always want to know in an integral, specific and general way about some software that wants to be developed.
 <br>
-<div align="center" >
+<div align="flex" >
       <img align="center" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="330" height="225"  />
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayrarepositor&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=5">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanParraIV&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=5">
 </p>
 </div>
 
