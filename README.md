@@ -1,12 +1,9 @@
-<div align="center" >
-      <img src="https://miro.medium.com/max/1100/1*DluPjzT_eTUFdzHCI7JBZA.gif" width="330" height="225"  />
-</div>
 # **Hi there, I'm [Juan Mario Parra D'Errico](https://www.linkedin.com/in/juanparraiv/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
 Highly enthusiastic Computer engineer with 8 month of experience in web development. He always learning the best practices to improve solutions as a professional, He really enjoy explorer new technologies, standards and methods that allow him to develop modern and powerful applications. He really like being able to understand the problems to provide an optimal solution, He always willing to learn more, since curiosity is a quality that characterizes him because he always want to know in an integral, specific and general way about some software that wants to be developed.
 <br>
 
-<div style="padding-top:75.000%;position:relative;"><img src="https://github-readme-stats.vercel.app/api?username=juanparraiv&count_private=true&show_icons=true&theme=dracula" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></div>
+<div style="padding-top:75.000%;position:relative;"><img src="https://github-readme-stats.vercel.app/api?username=juanparraiv&count_private=true&show_icons=true&theme=dracula" width="500px" height="300px" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></div>
 
 ## Featured Skills
 
