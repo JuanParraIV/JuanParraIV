@@ -5,13 +5,18 @@ Highly enthusiastic Computer engineer with 6 month of experience in web developm
 <br>
 <div align="center" >
       <img align="center" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="330" height="225"  />
-</div> 
+</div>
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayrarepositor&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=5">
+</p>
 
 ## Featured Skills
 
-### Operating System: [![UBUNTU](https://img.shields.io/badge/UBUNTU-EB6F1F?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![CENT OS](https://img.shields.io/badge/CENTOS-1F4F8C?style=for-the-badge&logo=centOs&logoColor=white)](https://www.centos.org/) [![DEBIAN](https://img.shields.io/badge/DEBIAN-A3002E?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/index.es.html) [![MICROSOFT WINDOW SERVER](https://img.shields.io/badge/MICROSOFT WINDOW SERVER-0067B8?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/es-es/windows-server)
+### Operating System:
+[![UBUNTU](https://img.shields.io/badge/UBUNTU-EB6F1F?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![CENT OS](https://img.shields.io/badge/CENTOS-1F4F8C?style=for-the-badge&logo=centOs&logoColor=white)](https://www.centos.org/) [![DEBIAN](https://img.shields.io/badge/DEBIAN-A3002E?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/index.es.html) [![MICROSOFT_WINDOW SERVER](https://img.shields.io/badge/MICROSOFT_WINDOW_SERVER-0067B8?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/es-es/windows-server)
 
-### Virtualization: [![VIRTUAL BOX](https://img.shields.io/badge/VIRTUAL BOX-173761?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/) [![KVM](https://img.shields.io/badge/KVM-CC0000?style=for-the-badge&logo=kvm&logoColor=white)](https://www.linux-kvm.org/page/Main_Page) 
+### Virtualization:
+[![VIRTUAL BOX](https://img.shields.io/badge/VIRTUAL BOX-173761?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/) [![KVM](https://img.shields.io/badge/KVM-CC0000?style=for-the-badge&logo=kvm&logoColor=white)](https://www.linux-kvm.org/page/Main_Page) 
 
 ### Network Services: [![APACHE](https://img.shields.io/badge/APACHE-D22129?style=for-the-badge&logo=apache&logoColor=white)](https://www.apache.org/) [![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/) [![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=ssh&logoColor=white)](https://www.ssh.com/academy/ssh) [![DHCP](https://img.shields.io/badge/DHCP-000000?style=for-the-badge&logo=ssh&logoColor=white)](https://www.isc.org/dhcp/) [![DNS](https://img.shields.io/badge/DNS-000000?style=for-the-badge&logo=dns&logoColor=white)](https://developers.google.com/speed/public-dns) [![FTP](https://img.shields.io/badge/FTP-000000?style=for-the-badge&logo=ftp&logoColor=white)](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 
