@@ -5,6 +5,9 @@
 # **Hi there, I'm [Juan Mario Parra D'Errico](https://www.linkedin.com/in/juanparraiv/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">  ![visitors](https://visitor-badge.glitch.me/badge?page_id=juanparraiv.juanparraiv)
 
 ### 👨🏻‍💻 &nbsp;About Me
+<div>
+<img width="50%" align="right" alt="Github" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
+<p aligh="justify">
 Highly enthusiastic Computer engineer with 8 month of experience in web development.   
 
 He always learning the best practices to improve solutions as a professional.
@@ -14,6 +17,9 @@ He really enjoy explorer new technologies, standards and methods that allow him 
 He really like being able to understand the problems to provide an optimal solution.
 
 He always willing to learn more, since curiosity is a quality that characterizes him because he always want to know in an integral, specific and general way about some software that wants to be developed.
+  
+</p>
+</div>
 <hr>
 
 <h3 align="left">🤝🏻 &nbsp;Connect with Me</h3> 
@@ -66,7 +72,7 @@ He always willing to learn more, since curiosity is a quality that characterizes
 [![PNPM](https://img.shields.io/badge/pnpm-CB3837?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/es/) [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/) [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 
 #### Libraries:
-[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/) [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/) [! [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/) [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/) [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 
 #### Markup Languages:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/) [![YAML](https://img.shields.io/badge/YAML-C5161D?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org/)
