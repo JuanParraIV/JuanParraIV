@@ -1,11 +1,18 @@
-# **Hi there, I'm [Juan Mario Parra D'Errico](https://www.linkedin.com/in/juanparraiv/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
+<div align="center">
+<img width="100%" height = "250px" src="https://i0.wp.com/cinde.es/blog/wp-content/uploads/2017/10/giphy.gif?resize=500%2C281" alt="cover" />
+</div>
+
+# **Hi there, I'm [Juan Mario Parra D'Errico](https://www.linkedin.com/in/juanparraiv/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">  ![visitors](https://visitor-badge.glitch.me/badge?page_id=juanparraiv.juanparraiv)
 
 ### 👨🏻‍💻 &nbsp;About Me
-Highly enthusiastic Computer engineer with 8 month of experience in web development.   ![visitors](https://visitor-badge.glitch.me/badge?page_id=juanparraiv.juanparraiv)
+Highly enthusiastic Computer engineer with 8 month of experience in web development.   
 
 He always learning the best practices to improve solutions as a professional.
+
 He really enjoy explorer new technologies, standards and methods that allow him to develop modern and powerful applications.
+
 He really like being able to understand the problems to provide an optimal solution.
+
 He always willing to learn more, since curiosity is a quality that characterizes him because he always want to know in an integral, specific and general way about some software that wants to be developed.
 <hr>
 
