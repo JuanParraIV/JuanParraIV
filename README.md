@@ -6,7 +6,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 <div>
-<img width="50%" align="right" alt="Github" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
+<img width="40%" align="right" alt="Github" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
+<br>
 <p aligh="justify">
 Highly enthusiastic Computer engineer with 8 month of experience in web development.   
 
@@ -17,6 +18,8 @@ He really enjoy explorer new technologies, standards and methods that allow him 
 He really like being able to understand the problems to provide an optimal solution.
 
 He always willing to learn more, since curiosity is a quality that characterizes him because he always want to know in an integral, specific and general way about some software that wants to be developed.
+  
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/uc?export=download&id=1ePErcuf0JqT1csyJwc_boO6BFSYoDeeF) for more details about me. I'm open to feedback and suggestions!
   
 </p>
 </div>
@@ -37,6 +40,12 @@ He always willing to learn more, since curiosity is a quality that characterizes
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanParraIV&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<hr>
+
+### 🎧 &nbsp;Spotify Playing 
+
+![Spotify](https://novatorem.vercel.app/api/spotify)
+<br/>
 <hr>
 
 <h3 align="left">🛠 &nbsp;Featured Skills</h3>
