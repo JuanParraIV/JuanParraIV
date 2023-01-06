@@ -3,14 +3,17 @@
 ### 👨🏻‍💻 &nbsp;About Me
 Highly enthusiastic Computer engineer with 8 month of experience in web development.   ![visitors](https://visitor-badge.glitch.me/badge?page_id=juanparraiv.juanparraiv)
 
-He always learning the best practices to improve solutions as a professional, He really enjoy explorer new technologies, standards and methods that allow him to develop modern and powerful applications. He really like being able to understand the problems to provide an optimal solution, He always willing to learn more, since curiosity is a quality that characterizes him because he always want to know in an integral, specific and general way about some software that wants to be developed.
+He always learning the best practices to improve solutions as a professional.
+He really enjoy explorer new technologies, standards and methods that allow him to develop modern and powerful applications.
+He really like being able to understand the problems to provide an optimal solution.
+He always willing to learn more, since curiosity is a quality that characterizes him because he always want to know in an integral, specific and general way about some software that wants to be developed.
 <hr>
 
 <h3 align="left">🤝🏻 &nbsp;Connect with Me</h3> 
 <p align="center">
-<a href="https://twitter.com/ishikakesarwan4" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ishika-kesarwani-3b32811a6/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/wth_ishiii" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+<a href="https://twitter.com/JuanParraIV" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="JuanParraIV" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/JuanParraIV-3b32811a6/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="JuanParraIV" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/juanmarioparra" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="juanmarioparra" height="50" width="50" /></a>
 </p>
 <hr>
 
