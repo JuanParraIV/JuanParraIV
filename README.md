@@ -19,7 +19,7 @@ He really like being able to understand the problems to provide an optimal solut
 
 He always willing to learn more, since curiosity is a quality that characterizes him because he always want to know in an integral, specific and general way about some software that wants to be developed.
   
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/uc?export=download&id=1ePErcuf0JqT1csyJwc_boO6BFSYoDeeF) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/uc?export=download&id=1F6nWqMGeTO9Is0sXKtScWqwtIHIYi_5I) for more details about me. I'm open to feedback and suggestions!
   
 </p>
 </div>
