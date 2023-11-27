@@ -9,17 +9,32 @@
 <img width="40%" align="right" alt="Github" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 <br>
 <p aligh="justify">
-Highly enthusiastic Computer engineer with 8 month of experience in web development.   
+💬 I'm an intermediate English speaker (B1).
 
-He always learning the best practices to improve solutions as a professional.
+🍷 With a year of experience in agile teams as a Full-Stack Engineer, my focus has been on web development. I've worked with a wide range of technologies, including:
 
-He really enjoy explorer new technologies, standards and methods that allow him to develop modern and powerful applications.
+Frontend:
+React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, React-Query, Zustand, Redux, custom hooks, Zod. 🌐💻
+Backend:
+Node.js (Express.js), Python (FastApi), Swagger. 🚀🔧
+Database:
+MongoDB, PostgreSQL, MySQL, Prisma. 📊🗃️
+APIs:
+Development and consumption of REST APIs. 🔄📡
+Authentication and Authorization:
+Auth0, JWT, NextAuth. 🔒🔑
 
-He really like being able to understand the problems to provide an optimal solution.
+💻 My experience in this array of technologies has been crucial in developing robust and efficient web applications, addressing both frontend and backend aspects and ensuring proper integration of databases and services.
 
-He always willing to learn more, since curiosity is a quality that characterizes him because he always want to know in an integral, specific and general way about some software that wants to be developed.
+💻 Additionally, my knowledge spans the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC).
+
+💻 I also have experience in Git repositories (version control) like GitHub.
+
+🚀 Actively, I'm exploring DevOps and Cloud Computing, working with tools such as Docker for containerization, Terraform for Infrastructure as Code (IaC), orchestration using Kubernetes, configuration management with Ansible, CI/CD (Jenkins, GitHub Actions), and practicing observability with tools like Prometheus and Grafana to enhance cloud application management.
+
+As part of my aim to become a Cloud Practitioner, I'm focused on services like AWS EC2, S3, Lambda, RDS, and CloudFormation, aiming to integrate these technologies with my current skills for a more comprehensive approach to application development.
   
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/uc?export=download&id=1F6nWqMGeTO9Is0sXKtScWqwtIHIYi_5I) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/15Um08_01PazusxvVJMtqfCN7fV2hbuJG/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
   
 </p>
 </div>
