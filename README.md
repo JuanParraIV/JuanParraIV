@@ -7,8 +7,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 <div>
 <img width="40%" align="right" alt="Github" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
+<a href="https://app.daily.dev/jotamario">
+<img src="https://api.daily.dev/devcards/v2/995oPBFSLj6mkFJNmVRxc.png?r=as6&type=default" width="356" alt="Juan Mario Parra D.'s Dev Card"/>
+</a>
 <br>
-<p aligh="justify">
+<p align="justify">
 💬 I'm an intermediate English speaker (B1).
 
 🍷 With a year of experience in agile teams as a Full-Stack Engineer, my focus has been on web development. I've worked with a wide range of technologies, including:
