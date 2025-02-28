@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://i0.wp.com/cinde.es/blog/wp-content/uploads/2017/10/giphy.gif?resize=500%2C281" alt="cover" />
 </div>
 
-# **Hi there, I'm [Juan Mario Parra D'Errico](https://www.linkedin.com/in/juanparraiv/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=juanparraiv.juanparraiv)
+# **Hi there, I'm [Juan Mario Parra D'Errico](https://www.linkedin.com/in/juanparraiv/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
 ### 👨🏻‍💻 &nbsp;About Me
 <div>
@@ -14,30 +14,54 @@
 <p align="justify">
 💬 I'm an intermediate English speaker (B1).
 
-🍷 With a year of experience in agile teams as a Full-Stack Engineer, my focus has been on web development. I've worked with a wide range of technologies, including:
+🍷 With 2+ years of experience in agile teams, I specialize in designing, developing, and automating scalable software solutions. My background spans from full-stack web development to DevOps practices, focusing on infrastructure automation, CI/CD pipelines, security (DevSecOps), and cloud-native technologies.
 
-Frontend:
-React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, React-Query, Zustand, Redux, custom hooks, Zod. 🌐💻
-Backend:
-Node.js (Express.js), Python (FastApi), Swagger. 🚀🔧
-Database:
-MongoDB, PostgreSQL, MySQL, Prisma. 📊🗃️
-APIs:
-Development and consumption of REST APIs. 🔄📡
-Authentication and Authorization:
-Auth0, JWT, NextAuth. 🔒🔑
+🛠️ Tech Stack & Expertise
 
-💻 My experience in this array of technologies has been crucial in developing robust and efficient web applications, addressing both frontend and backend aspects and ensuring proper integration of databases and services.
+🚀 DevOps & Cloud
 
-💻 Additionally, my knowledge spans the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC).
+  ✔ Infrastructure as Code (IaC): Terraform, Ansible, Pulumi
 
-💻 I also have experience in Git repositories (version control) like GitHub.
+  ✔ CI/CD: GitHub Actions, Jenkins
 
-🚀 Actively, I'm exploring DevOps and Cloud Computing, working with tools such as Docker for containerization, Terraform for Infrastructure as Code (IaC), orchestration using Kubernetes, configuration management with Ansible, CI/CD (Jenkins, GitHub Actions), and practicing observability with tools like Prometheus and Grafana to enhance cloud application management.
+  ✔ Containerization & Orchestration: Docker, Kubernetes, Helm, ArgoCD
 
-As part of my aim to become a Cloud Practitioner, I'm focused on services like AWS EC2, S3, Lambda, RDS, and CloudFormation, aiming to integrate these technologies with my current skills for a more comprehensive approach to application development.
+  ✔ Monitoring & Logging: Prometheus, Grafana, OpenTelemetry, Jaeger
+
+  ✔ Security (DevSecOps): Trivy, SonarQube, Semgrep, HashiCorp Vault
+
+  ✔ Cloud Providers: AWS (IAM, EC2, S3, RDS, VPC, ECS, EKS, Load Balancers, DynamoDB)
+
+
+💻 Full-Stack Development
+
+  ✔ Frontend: React.js, Next.js, TypeScript, TailwindCSS, Zustand, Redux
+
+  ✔ Backend: Node.js (Express.js), Python (FastAPI)
+
+  ✔ Databases: PostgreSQL, MongoDB, MySQL, Prisma
+
+  ✔ APIs: REST API Development & Consumption
+
+  ✔ Authentication & Authorization: Auth0, JWT, NextAuth
+
+
+🔥 What I Do
+
+  ✔ Automate infrastructure and deployments to improve efficiency & security
+
+  ✔ Develop scalable, high-performance web applications
+
+  ✔ Optimize codebases for maintainability and performance
+
+  ✔ Integrate DevOps best practices into development workflows
+
+  ✔ Monitor and secure applications using cutting-edge tools
+
+
+
   
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/15Um08_01PazusxvVJMtqfCN7fV2hbuJG/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1PA5LXakVQ7r-Sbo0tkSYYI5jACC7BGS0/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
   
 </p>
 </div>
@@ -68,47 +92,48 @@ As part of my aim to become a Cloud Practitioner, I'm focused on services like A
 
 <h3 align="left">🛠 &nbsp;Featured Skills</h3>
  
-#### Operating System:
-[![UBUNTU](https://img.shields.io/badge/UBUNTU-EB6F1F?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![CENT OS](https://img.shields.io/badge/CENTOS-1F4F8C?style=for-the-badge&logo=centOs&logoColor=white)](https://www.centos.org/) [![DEBIAN](https://img.shields.io/badge/DEBIAN-A3002E?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/index.es.html) [![MICROSOFT_WINDOW SERVER](https://img.shields.io/badge/MICROSOFT_WINDOW_SERVER-0067B8?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/es-es/windows-server)
+## 🔧 **Tech Stack & Tools**
 
-#### Virtualization:
-[![VIRTUAL BOX](https://img.shields.io/badge/VIRTUAL_BOX-173761?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/) [![KVM](https://img.shields.io/badge/KVM-CC0000?style=for-the-badge&logo=kvm&logoColor=white)](https://www.linux-kvm.org/page/Main_Page) 
+### 🖥️ **Operating Systems**
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/) [![CENT OS](https://img.shields.io/badge/CENTOS-1F4F8C?style=for-the-badge&logo=centOs&logoColor=white)](https://www.centos.org/) 
 
-#### Network Services:
-[![APACHE](https://img.shields.io/badge/APACHE-D22129?style=for-the-badge&logo=apache&logoColor=white)](https://www.apache.org/) [![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/) [![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=ssh&logoColor=white)](https://www.ssh.com/academy/ssh) [![DHCP](https://img.shields.io/badge/DHCP-000000?style=for-the-badge&logo=ssh&logoColor=white)](https://www.isc.org/dhcp/) [![DNS](https://img.shields.io/badge/DNS-000000?style=for-the-badge&logo=dns&logoColor=white)](https://developers.google.com/speed/public-dns) [![FTP](https://img.shields.io/badge/FTP-000000?style=for-the-badge&logo=ftp&logoColor=white)](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
+### ☁ **Cloud & DevOps**
+[![AWS](https://img.shields.io/badge/AWS-FEBD69?style=for-the-badge&logo=amazonwebservices&logoColor=black)](https://aws.amazon.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/) [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/) [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/) [![Pulumi](https://img.shields.io/badge/Pulumi-512BDD?style=for-the-badge&logo=pulumi&logoColor=white)](https://www.pulumi.com/) [![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argoproj.github.io/cd/) [![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/) [![cert-manager](https://img.shields.io/badge/cert--manager-0078D4?style=for-the-badge&logo=letsencrypt&logoColor=white)](https://cert-manager.io/) [![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)](https://traefik.io/) [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)  
 
-#### Databases:
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-#### Versioning Control:
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+### 🔄 **CI/CD & Automation**
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 
-#### Scripting:
-[![GNU](https://img.shields.io/badge/Bash-00000F?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/bash/) [![Python](https://img.shields.io/badge/Python-366C9C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+### 🔐 **Security & DevSecOps**
+[![Trivy](https://img.shields.io/badge/Trivy-9B4F96?style=for-the-badge&logo=trivy&logoColor=white)](https://aquasecurity.github.io/trivy/) [![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarqube.org/) [![Semgrep](https://img.shields.io/badge/Semgrep-000000?style=for-the-badge&logo=semgrep&logoColor=white)](https://semgrep.dev/) [![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white)](https://www.vaultproject.io/) [![External Secrets Operator](https://img.shields.io/badge/External%20Secrets%20Operator-4EAA25?style=for-the-badge&logo=kubernetes&logoColor=white)](https://external-secrets.io/) 
 
-#### Api Tools:
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/) [![RapidAPI](https://img.shields.io/badge/RapidAPI-FF5733?style=for-the-badge&logo=rapidapi&logoColor=white)](https://rapidapi.com/)
+### 📊 **Monitoring & Observability**
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/) [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/) [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-5A67D8?style=for-the-badge&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)  
 
-#### Programming Languages:
-[![Python](https://img.shields.io/badge/Python-366C9C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/js/)
+### 🖥️ **Scripting & Programming Languages**
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
 
-#### Frameworks:
-[![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-
-#### Package Management:
+### 🛠️ **Package Management**
 [![PNPM](https://img.shields.io/badge/pnpm-CB3837?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/es/) [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/) [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 
-#### Libraries:
-[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/) [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/) [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) [![Zustand](https://img.shields.io/badge/Zustand-FFD43B?style=for-the-badge&logo=react&logoColor=white)](https://github.com/pmndrs/zustand) [![React Query](https://img.shields.io/badge/React_Query-00BFFF?style=for-the-badge&logo=react&logoColor=white)](https://react-query.tanstack.com/)
+### 🗄️ **Databases**
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
 
-#### Markup Languages:
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/) [![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org/)
+### ⚡ **Backend Development**
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)  
 
-#### Automation, Orchestation, Cloud(DevOps):
-[![Jenkins](https://img.shields.io/badge/Jenkins-334D5A?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/) [![Docker](https://img.shields.io/badge/Docker-0073EC?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/es/) [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/) [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/) [![AWS](https://img.shields.io/badge/Amazon_AWS-FEBD69?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Firebase](https://img.shields.io/badge/firebase-%F57A00.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/) [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/) [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/) [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+### 🎨 **Frontend Development**
+[![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
 
-#### Monitoring tools:
-[![Nagios](https://img.shields.io/badge/Nagios-EE1C25?style=for-the-badge&logo=nagios&logoColor=white)](https://www.nagios.org/) [![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white)](https://www.nagios.org/)
+### 🔀 **State Management & Libraries**
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) [![Zustand](https://img.shields.io/badge/Zustand-FFD43B?style=for-the-badge&logo=react&logoColor=white)](https://github.com/pmndrs/zustand) [![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react&logoColor=white)](https://react-query.tanstack.com/)  
+
+### 🔍 **API Development & Testing**
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)  
+
+### 🛠️ **Version Control & Repositories**
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)](https://about.gitea.com/)  
+
 <hr>
 
 
