@@ -1,52 +1,44 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://i0.wp.com/cinde.es/blog/wp-content/uploads/2017/10/giphy.gif?resize=500%2C281" alt="cover" />
-</div>
 
-# **Hi there, I'm [Juan Mario Parra D'Errico](https://www.linkedin.com/in/juanparraiv/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
+## Hi there 👋 I'm Juan Mario Parra D'Errico) 👨🏻‍💻
 
 ### 👨🏻‍💻 &nbsp;About Me
 <div>
-
-<a href="https://app.daily.dev/jotamario">
-<img  align="right" src="https://api.daily.dev/devcards/v2/995oPBFSLj6mkFJNmVRxc.png?r=as6&type=default" width="356" alt="Juan Mario Parra D.'s Dev Card"/>
-</a>
-<br>
 <p align="justify">
 💬 I'm an intermediate English speaker (B1).
 
 🍷 With 2+ years of experience in agile teams, I specialize in designing, developing, and automating scalable software solutions. My background spans from full-stack web development to DevOps practices, focusing on infrastructure automation, CI/CD pipelines, security (DevSecOps), and cloud-native technologies.
 
-🛠️ Tech Stack & Expertise
+### Currently I am working with ...
+  <!-- Cloud Technologies -->
+  <a href="" target="_blank" title="AWS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
+  <!--<a href="" target="_blank" title="Azure" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="GCP" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="30" height="30"/></a>&nbsp;&nbsp;-->
+  
+  <!-- Programming Languages -->
+  <a href="" target="_blank" title="Python" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="Go" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="JavaScript (Node.js)" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="Rust" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="30" height="30"/></a>&nbsp;&nbsp;
+  
+  <a href="" target="_blank" title="Terraform" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000" alt="Terraform" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="Ansible" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="30" height="30"/></a>&nbsp;&nbsp;
+  
+  <!-- CI/CD -->
+  <a href="" target="_blank" title="GitHub Actions" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e14a75a1-c058-4864-b0bf-c0e257b0bf1d" alt="github actions" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="Jenkins" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="30" height="30"/></a>&nbsp;&nbsp;
 
-🚀 DevOps & Cloud
+  <a href="" target="_blank" title="Docker" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="Kubernetes" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="Helm" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a46495ec-cbf2-4766-bfd3-2bad3400faac" alt="Helm" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="ArgoCD" rel="noreferrer"><img src="https://github.com/user-attachments/assets/93b22817-67d4-4c94-a03f-8638bdbb6891" alt="ArgoCD" width="30" height="30"/></a>&nbsp;&nbsp;
 
-  ✔ Infrastructure as Code (IaC): Terraform, Ansible, Pulumi
+  <a href="" target="_blank" title="Prometheus" rel="noreferrer"><img src="https://github.com/user-attachments/assets/1769a7d9-dd85-492e-8a66-806e96839121" alt="Prometheus" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="Grafana" rel="noreferrer"><img src="https://github.com/user-attachments/assets/7dda286d-d50e-4ef6-bcde-cfdd479cbaed" alt="Grafana" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="OpenTelemetry" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a64c708f-6a7d-4b2b-b545-f03f36fc56b7" alt="OpenTelemetry" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="Jaeger" rel="noreferrer"><img src="https://github.com/user-attachments/assets/5b8821b8-8e22-412a-ad1b-66f7cbe2d976" alt="Jaeger" width="30" height="30"/></a>&nbsp;&nbsp;
 
-  ✔ CI/CD: GitHub Actions, Jenkins
-
-  ✔ Containerization & Orchestration: Docker, Kubernetes, Helm, ArgoCD
-
-  ✔ Monitoring & Logging: Prometheus, Grafana, OpenTelemetry, Jaeger
-
-  ✔ Security (DevSecOps): Trivy, SonarQube, Semgrep, HashiCorp Vault
-
-  ✔ Cloud Providers: AWS (IAM, EC2, S3, RDS, VPC, ECS, EKS, Load Balancers, DynamoDB)
-
-
-💻 Full-Stack Development
-
-  ✔ Frontend: React.js, Next.js, TypeScript, TailwindCSS, Zustand, Redux
-
-  ✔ Backend: Node.js (Express.js), Python (FastAPI)
-
-  ✔ Databases: PostgreSQL, MongoDB, MySQL, Prisma
-
-  ✔ APIs: REST API Development & Consumption
-
-  ✔ Authentication & Authorization: Auth0, JWT, NextAuth
-
-
-🔥 What I Do
+ 
+### 🔥 What I Do
 
   ✔ Automate infrastructure and deployments to improve efficiency & security
 
@@ -59,8 +51,6 @@
   ✔ Monitor and secure applications using cutting-edge tools
 
 
-
-  
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1PA5LXakVQ7r-Sbo0tkSYYI5jACC7BGS0/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
   
 </p>
@@ -69,9 +59,10 @@
 
 <h3 align="left">🤝🏻 &nbsp;Connect with Me</h3> 
 <p align="center">
-<a href="https://twitter.com/JuanParraIV" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="JuanParraIV" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/juanparraiv/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="JuanParraIV" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/juanmarioparra" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="juanmarioparra" height="50" width="50" /></a>
+<a href="mailto:jmparra.dev@gmail.com"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" alt="email" height="50" width="50" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/JuanParraIV" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="JuanParraIV" height="50" width="50" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/juanparraiv/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="JuanParraIV" height="50" width="50" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/juanmarioparra" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="juanmarioparra" height="50" width="50" /></a> &nbsp;&nbsp;
 </p>
 <hr>
 
@@ -84,13 +75,7 @@
 </p>
 <hr>
 
-### 🎧 &nbsp;Spotify Playing 
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
-<br/>
-<hr>
-
-<h3 align="left">🛠 &nbsp;Featured Skills</h3>
+<!--<h3 align="left">🛠 &nbsp;Featured Skills</h3>
  
 ## 🔧 **Tech Stack & Tools**
 
@@ -134,6 +119,6 @@
 ### 🛠️ **Version Control & Repositories**
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)](https://about.gitea.com/)  
 
-<hr>
+<hr>-->
 
 
