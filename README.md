@@ -1,5 +1,5 @@
 
-## Hi there 👋 I'm Juan Mario Parra D'Errico) 👨🏻‍💻
+## Hi there 👋 I'm Juan Mario Parra D'Errico 👨🏻‍💻
 
 ### 👨🏻‍💻 &nbsp;About Me
 <div>
@@ -9,28 +9,37 @@
 🍷 With 2+ years of experience in agile teams, I specialize in designing, developing, and automating scalable software solutions. My background spans from full-stack web development to DevOps practices, focusing on infrastructure automation, CI/CD pipelines, security (DevSecOps), and cloud-native technologies.
 
 ### Currently I am working with ...
+
   <!-- Cloud Technologies -->
-  <a href="" target="_blank" title="AWS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
-  <!--<a href="" target="_blank" title="Azure" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="30" height="30"/></a>&nbsp;&nbsp;
-  <a href="" target="_blank" title="GCP" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="30" height="30"/></a>&nbsp;&nbsp;-->
+  <a href="" target="_blank" title="AWS" rel="noreferrer"><img src="https://github.com/user-attachments/assets/7ad7bf06-c657-4c90-9fbf-c281f464eb50" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="Cloudflare" rel="noreferrer"><img src="https://github.com/user-attachments/assets/7b29be70-2866-46b2-a499-4ccf5361eb39" alt="Cloudflare" width="30" height="30"/></a>&nbsp;&nbsp;
+  <!--<a href="" target="_blank" title="Azure" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="30" height="30"/></a>&nbsp;&nbsp; -->
   
   <!-- Programming Languages -->
+  <a href="" target="_blank" title="Bash" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b2546578-da67-47ff-9b52-bc87473b32d8" alt="Bash" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="Python" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="Go" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="JavaScript (Node.js)" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="Rust" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="30" height="30"/></a>&nbsp;&nbsp;
-  
+
+  <!-- IaC -->
   <a href="" target="_blank" title="Terraform" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000" alt="Terraform" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="Ansible" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="30" height="30"/></a>&nbsp;&nbsp;
   
   <!-- CI/CD -->
   <a href="" target="_blank" title="GitHub Actions" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e14a75a1-c058-4864-b0bf-c0e257b0bf1d" alt="github actions" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="Jenkins" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="30" height="30"/></a>&nbsp;&nbsp;
-
+  
+  <!-- Contenerization & Orchestation -->
   <a href="" target="_blank" title="Docker" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="Kubernetes" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="Helm" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a46495ec-cbf2-4766-bfd3-2bad3400faac" alt="Helm" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="ArgoCD" rel="noreferrer"><img src="https://github.com/user-attachments/assets/93b22817-67d4-4c94-a03f-8638bdbb6891" alt="ArgoCD" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="K3s" rel="noreferrer"><img src="https://github.com/user-attachments/assets/c5d72b8e-4d13-4965-b910-622a909fbf6a" alt="K3s" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="Rancher" rel="noreferrer"><img src="https://github.com/user-attachments/assets/68360234-6c39-49a1-b21f-6acc12583abf" alt="Rancher" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="Traefik" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ec90efe7-43b3-46e7-8be9-d82a4fe4c220" alt="Traefik" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="Hashicorp Vault" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ca6d96d4-6ed3-4a15-95d1-cb723e18e25e" alt="Traefik" width="30" height="30"/></a>&nbsp;&nbsp;
+  
 
   <a href="" target="_blank" title="Prometheus" rel="noreferrer"><img src="https://github.com/user-attachments/assets/1769a7d9-dd85-492e-8a66-806e96839121" alt="Prometheus" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="Grafana" rel="noreferrer"><img src="https://github.com/user-attachments/assets/7dda286d-d50e-4ef6-bcde-cfdd479cbaed" alt="Grafana" width="30" height="30"/></a>&nbsp;&nbsp;
