@@ -1,5 +1,4 @@
-
-## Hi there 👋 I'm Juan Mario Parra D'Errico 👨🏻‍💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=5BF753&multiline=true&width=435&lines=%24+.%2Fusr%2Fbin%2Fwhoiam;%3E+J0t4m4r10+-+DevOps+-+Cloud+-+SRE)](https://git.io/typing-svg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 <div>
