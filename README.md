@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Juan" alt="Typing SVG" /></a>
 </div> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=2000&color=3B8640&multiline=true&repeat=false&width=435&lines=%24+.%2Fusr%2Fbin%2Fwhoiam;%3E+JuanMario+-+DevOps+-+Cloud+-+SRE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=2000&color=3B8640&multiline=true&repeat=false&width=435&lines=%24+.%2Fusr%2Fbin%2Fwhoami;%3E+JuanMario+-+DevOps+-+Cloud+-+SRE)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&pause=1000&color=3B8640&repeat=false&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+About+Me)](https://git.io/typing-svg)
 
