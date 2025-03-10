@@ -1,14 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=5BF753&multiline=true&width=435&lines=%24+.%2Fusr%2Fbin%2Fwhoiam;%3E+J0t4m4r10+-+DevOps+-+Cloud+-+SRE)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B8640&height=70&section=header"/>
+<!--
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Juan" alt="Typing SVG" /></a>
+</div> -->
 
-### 👨🏻‍💻 &nbsp;About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=2000&color=3B8640&multiline=true&repeat=false&width=435&lines=%24+.%2Fusr%2Fbin%2Fwhoiam;%3E+JuanMario+-+DevOps+-+Cloud+-+SRE)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&pause=1000&color=3B8640&repeat=false&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+About+Me)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&duration=2000&pause=1000&color=3B8640&multiline=true&repeat=false&width=1300&height=200&lines=%F0%9F%92%AC+I'm+an+intermediate+English+speaker+(B1).+;%F0%9F%8D%B7+With+2%2B+years+of+experience+in+agile+teams.;+I+specialize+in+designing%2C+developing%2C+and+automating+scalable+software+solutions.;My+background+spans+from+full-stack+web+development+to+DevOps+practices.;Focusing+on+infrastructure+automation%2C+CI%2FCD+pipelines%2C+security+(DevSecOps)%2C+and+cloud-native+technologies.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&weight=600&pause=1000&color=3B8640&repeat=false&width=435&lines=%F0%9F%92%BB+Currently+I+am+working+with+...)](https://git.io/typing-svg)
+
 <div>
 <p align="justify">
-💬 I'm an intermediate English speaker (B1).
-
-🍷 With 2+ years of experience in agile teams, I specialize in designing, developing, and automating scalable software solutions. My background spans from full-stack web development to DevOps practices, focusing on infrastructure automation, CI/CD pipelines, security (DevSecOps), and cloud-native technologies.
-
-### Currently I am working with ...
-
   <!-- Cloud Technologies -->
   <a href="" target="_blank" title="AWS" rel="noreferrer"><img src="https://github.com/user-attachments/assets/7ad7bf06-c657-4c90-9fbf-c281f464eb50" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="Cloudflare" rel="noreferrer"><img src="https://github.com/user-attachments/assets/7b29be70-2866-46b2-a499-4ccf5361eb39" alt="Cloudflare" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -46,42 +51,35 @@
   <a href="" target="_blank" title="Jaeger" rel="noreferrer"><img src="https://github.com/user-attachments/assets/5b8821b8-8e22-412a-ad1b-66f7cbe2d976" alt="Jaeger" width="30" height="30"/></a>&nbsp;&nbsp;
 
  
-### 🔥 What I Do
-
-  ✔ Automate infrastructure and deployments to improve efficiency & security
-
-  ✔ Develop scalable, high-performance web applications
-
-  ✔ Optimize codebases for maintainability and performance
-
-  ✔ Integrate DevOps best practices into development workflows
-
-  ✔ Monitor and secure applications using cutting-edge tools
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&weight=600&pause=1000&color=3B8640&repeat=false&width=435&lines=%F0%9F%94%A5+What+I+Do)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&duration=2000&pause=1000&color=3B8640&multiline=true&repeat=false&width=1300&height=150&lines=%E2%9C%94+Automate+infrastructure+and+deployments+to+improve+efficiency+%26+security;+%E2%9C%94+Develop+scalable%2C+high-performance+web+applications;%E2%9C%94+Optimize+codebases+for+maintainability+and+performance;+%E2%9C%94+Integrate+DevOps+best+practices+into+development+workflows;++++%E2%9C%94+Monitor+and+secure+applications+using+cutting-edge+tools)](https://git.io/typing-svg)
 
 
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1PA5LXakVQ7r-Sbo0tkSYYI5jACC7BGS0/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=2000&pause=1000&color=3B8640&multiline=true&repeat=false&width=800&lines=Please+have+a+look+at+my+resume+for+more+details+about+me.;+I'm+open+to+feedback+and+suggestions!)](https://git.io/typing-svg)
+ 
+ [📄](https://drive.google.com/file/d/1PA5LXakVQ7r-Sbo0tkSYYI5jACC7BGS0/view?usp=sharing)
   
 </p>
 </div>
 <hr>
 
-<h3 align="left">🤝🏻 &nbsp;Connect with Me</h3> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&duration=3000&pause=1000&color=3B8640&repeat=false&width=435&lines=%F0%9F%A4%9D%F0%9F%8F%BB++Connect+with+Me)](https://git.io/typing-svg)
+
 <p align="center">
-<a href="mailto:jmparra.dev@gmail.com"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" alt="email" height="50" width="50" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/JuanParraIV" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="JuanParraIV" height="50" width="50" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/juanparraiv/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="JuanParraIV" height="50" width="50" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/juanmarioparra" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="juanmarioparra" height="50" width="50" /></a> &nbsp;&nbsp;
+<a href="https://t.me/juanmarioparra" target="_blank">
+  <img align="center" src="https://img.icons8.com/cute-clipart/64/3B8640/telegram-app.png" alt="juanmarioparra" height="50" width="50" />
+</a> &nbsp;&nbsp;
+<a href="https://discord.com/users/jotamario#7344/" target="_blank">
+  <img align="center" src="https://img.icons8.com/cute-clipart/64/3B8640/discord.png" alt="juanmarioparra" height="50" width="50" /> 
+</a> &nbsp;&nbsp;
+<a href="mailto:jmparra.dev@gmail.com"><img align="center" src="https://img.icons8.com/cute-clipart/64/3B8640/gmail.png" alt="email" height="50" width="50" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/JuanParraIV" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/3B8640/twitter.png" alt="JuanParraIV" height="50" width="50" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/juanparraiv/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/3B8640/linkedin.png" alt="JuanParraIV" height="50" width="50" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/juanmarioparra" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/3B8640/instagram-new.png" alt="juanmarioparra" height="50" width="50" /></a> &nbsp;&nbsp;
+</div>
 </p>
 <hr>
 
-<h3 align="left">⚙️ &nbsp;GitHub Analytics</h3>
-<p align="center">
-<a href="https://github.com/JuanParraIV">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanParraIV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanParraIV&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-<hr>
 
 <!--<h3 align="left">🛠 &nbsp;Featured Skills</h3>
  
@@ -128,5 +126,29 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)](https://about.gitea.com/)  
 
 <hr>-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&duration=3000&pause=1000&color=3B8640&repeat=false&width=435&lines=%E2%9A%99%EF%B8%8F+GitHub+Analytics)](https://git.io/typing-svg)
 
+  <div align="center">
+    <img height="192px" alt="JuanParraIV's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanParraIV&theme=transparent&title_color=3B8640&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
+      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=JuanParraIV&theme=transparent&rank_icon=github&title_color=3B8640&color=3B8640&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+<!--       <img src="https://wakatime.com/share/@JuanParraIV/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
+  </div>
+  <div align="center">
+     <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JuanParraIV&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000"> -->
+  <a href="https://github.com/JuanParraIV/"><img alt="Juan Parra's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=JuanParraIV&bg_color=RRGGBBAA&title_color=3B8640&color=3B8640&line=3B8640&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  </div>
+<div align="center">
+<br>
+  
 
+<a  align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&duration=3000&pause=1000&color=3B8640&repeat=false&width=435&lines=%23%EF%B8%8F%E2%83%A3+Visitors+Count" alt="Typing SVG" /></a>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JuanParraIV=}/count.svg" /></p> 
+</div>
+<br>
+<hr>
+
+<div align="center">
+<br>
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=3B8640&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B8640&height=70&section=footer"/>
