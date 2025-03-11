@@ -24,7 +24,7 @@
   <a href="" target="_blank" title="Python" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="Go" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="JavaScript (Node.js)" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
-  <a href="" target="_blank" title="Rust" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="30" height="30"/></a>&nbsp;&nbsp;
+  <!-- <a href="" target="_blank" title="Rust" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="30" height="30"/></a>&nbsp;&nbsp; -->
 
   <!-- IaC -->
   <a href="" target="_blank" title="Terraform" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000" alt="Terraform" width="30" height="30"/></a>&nbsp;&nbsp;
