@@ -14,16 +14,20 @@
 
 <div>
 <p align="justify">
+  <!-- Management Tools -->
+  <a href="" target="_blank" title="Jira" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="30" height="30"/></a>&nbsp;&nbsp;
+  
   <!-- Cloud Technologies -->
   <a href="" target="_blank" title="AWS" rel="noreferrer"><img src="https://github.com/user-attachments/assets/7ad7bf06-c657-4c90-9fbf-c281f464eb50" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="Cloudflare" rel="noreferrer"><img src="https://github.com/user-attachments/assets/7b29be70-2866-46b2-a499-4ccf5361eb39" alt="Cloudflare" width="30" height="30"/></a>&nbsp;&nbsp;
-  <!--<a href="" target="_blank" title="Azure" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="30" height="30"/></a>&nbsp;&nbsp; -->
-  
+  <!--<a href="" target="_blank" title="Azure" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="30" height="30"/></a>&nbsp;&nbsp; -->  
   <!-- Programming Languages -->
   <a href="" target="_blank" title="Bash" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b2546578-da67-47ff-9b52-bc87473b32d8" alt="Bash" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="Python" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="Go" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="JavaScript (Node.js)" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="LangChain" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/059d2aae284b6b057b13484f27ebd0beb8564c5c/icons/langchain.svg" alt="LangChain" width="30" height="30"/></a>&nbsp;&nbsp;
+  
   <!-- <a href="" target="_blank" title="Rust" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="30" height="30"/></a>&nbsp;&nbsp; -->
 
   <!-- IaC -->
@@ -31,8 +35,9 @@
   <a href="" target="_blank" title="Ansible" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="30" height="30"/></a>&nbsp;&nbsp;
   
   <!-- CI/CD -->
-  <a href="" target="_blank" title="GitHub Actions" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e14a75a1-c058-4864-b0bf-c0e257b0bf1d" alt="github actions" width="30" height="30"/></a>&nbsp;&nbsp;
   <a href="" target="_blank" title="Jenkins" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="GitHub Actions" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e14a75a1-c058-4864-b0bf-c0e257b0bf1d" alt="github actions" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="" target="_blank" title="GitLab" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="30" height="30"/></a>&nbsp;&nbsp;
   
   <!-- Contenerization & Orchestation -->
   <a href="" target="_blank" title="Docker" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="30" height="30"/></a>&nbsp;&nbsp;
